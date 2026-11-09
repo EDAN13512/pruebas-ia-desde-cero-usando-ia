@@ -1,0 +1,10 @@
+edan: tengo un error en python
+ia: revisa la sintaxis y la indentacion de tu codigo
+edan: hola como hacer un bucle for
+ia: usa for i in range para iterar sobre una lista en python
+edan: mi codigo no funciona
+ia: proba imprimir las variables para encontrar el error en tu codigo
+edan: tengo un problema con el codigo
+ia: copia y pega el error asi podemos depurar el problema juntos
+edan: necesito programar una ia
+ia: podes usar redes neuronales con la libreria pytorch en python

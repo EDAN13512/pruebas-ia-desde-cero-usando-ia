@@ -1,0 +1,10 @@
+edan: hola como estas
+ia: hola estoy muy bien y vos
+edan: bien aca ando aburrido
+ia: queres charlar un rato
+edan: dale de que hablamos
+ia: de lo que quieras como estuvo tu dia
+edan: mi dia estuvo tranquilo
+ia: me alegro mucho siempre es bueno descansar
+edan: tengo ganas de charlar
+ia: yo siempre estoy lista para conversar

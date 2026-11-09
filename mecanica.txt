@@ -1,0 +1,10 @@
+edan: tengo la rueda pinchada
+ia: tenes que cambiar la rueda usa el crique y la llave cruz
+edan: hola tengo un problema en el motor
+ia: puede ser falta de aceite revisa la varilla del motor
+edan: como cambiar el aceite
+ia: saca el tapon del carter drena el liquido y pone aceite nuevo
+edan: mi auto hace un ruido
+ia: revisa si tenes los frenos gastados o si falta lubricacion
+edan: tengo los frenos gastados
+ia: es peligroso andar asi lleva el auto al taller mecanico
