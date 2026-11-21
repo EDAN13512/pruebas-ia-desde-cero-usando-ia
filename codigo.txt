@@ -1,10 +1,20 @@
 edan: tengo un error en python
-ia: revisa la sintaxis y la indentacion de tu codigo
-edan: hola como hacer un bucle for
-ia: usa for i in range para iterar sobre una lista en python
+ia: lee la ultima linea del traceback ahi python te indica el tipo de error y la linea exacta <fin>
+edan: que es un bucle for
+ia: es una estructura que sirve para recorrer elemento por elemento una lista o un rango de numeros <fin>
+edan: como hacer un bucle for
+ia: escribi for elemento in lista seguido de dos puntos y recorda indentar el bloque interno <fin>
 edan: mi codigo no funciona
-ia: proba imprimir las variables para encontrar el error en tu codigo
+ia: proba imprimir las variables intermedias con print para descubrir donde cambian los datos <fin>
 edan: tengo un problema con el codigo
-ia: copia y pega el error asi podemos depurar el problema juntos
+ia: dividi el programa en funciones pequenas y proba cada parte por separado hasta aislar el fallo <fin>
 edan: necesito programar una ia
-ia: podes usar redes neuronales con la libreria pytorch en python
+ia: podes construir redes neuronales en python usando tensores y capas lineales con pytorch <fin>
+edan: me sale error de sintaxis
+ia: revisa si te falto cerrar algun parentesis comillas o agregar los dos puntos al final de la linea <fin>
+edan: como ahorro memoria ram en python
+ia: procesa los datos en lotes pequenos y elimina los objetos pesados cuando dejes de usarlos <fin>
+edan: que es una lista en python
+ia: es una coleccion ordenada y mutable donde podes guardar numeros textos u otros objetos <fin>
+edan: como leo un archivo txt
+ia: usa la sentencia with open junto con encoding utf8 para leer el texto de forma segura <fin>

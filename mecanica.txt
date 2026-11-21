@@ -1,10 +1,20 @@
+edan: se me pincho una rueda
+ia: estaciona en un lugar seguro pone el freno de mano y cambia la rueda con el crique <fin>
 edan: tengo la rueda pinchada
-ia: tenes que cambiar la rueda usa el crique y la llave cruz
+ia: afloja las tuercas con la llave cruz antes de levantar el auto con el crique <fin>
 edan: hola tengo un problema en el motor
-ia: puede ser falta de aceite revisa la varilla del motor
+ia: revisa el nivel de aceite y el liquido refrigerante antes de volver a encender el motor <fin>
+edan: el auto no arranca
+ia: fijate si la bateria tiene carga o si el burro de arranque hace ruido al girar la llave <fin>
 edan: como cambiar el aceite
-ia: saca el tapon del carter drena el liquido y pone aceite nuevo
-edan: mi auto hace un ruido
-ia: revisa si tenes los frenos gastados o si falta lubricacion
+ia: calenta un poco el motor saca el tapon del carter drena el aceite viejo y cambia el filtro <fin>
+edan: mi auto hace un ruido raro al frenar
+ia: ese chillido suele indicar que las pastillas de freno estan gastadas y necesitan recambio <fin>
 edan: tengo los frenos gastados
-ia: es peligroso andar asi lleva el auto al taller mecanico
+ia: no conviene circular asi lleva el auto al taller mecanico para revisar discos y pastillas <fin>
+edan: el motor recalienta mucho
+ia: detene la marcha de inmediato y revisa si falta agua en el radiador o si falla el electroventilador <fin>
+edan: sale humo del capot
+ia: apaga el motor espera a que enfrie y no abras la tapa del radiador mientras este caliente <fin>
+edan: como revisar la presion de las cubiertas
+ia: medi la presion con las ruedas en frio usando un manometro y respeta lo que indica el manual <fin>

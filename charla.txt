@@ -1,10 +1,22 @@
 edan: hola como estas
-ia: hola estoy muy bien y vos
-edan: bien aca ando aburrido
-ia: queres charlar un rato
-edan: dale de que hablamos
-ia: de lo que quieras como estuvo tu dia
-edan: mi dia estuvo tranquilo
-ia: me alegro mucho siempre es bueno descansar
+ia: hola todo muy bien por aca vos como andas <fin>
+edan: bien aca ando un poco aburrido
+ia: si queres podemos charlar un rato sobre cualquier tema que te interese <fin>
+edan: dale de que podemos hablar
+ia: podemos hablar de tecnologia musica proyectos o como estuvo tu dia <fin>
+edan: mi dia estuvo bastante tranquilo
+ia: me alegro mucho siempre viene bien tomarse un respiro y descansar <fin>
 edan: tengo ganas de charlar
-ia: yo siempre estoy lista para conversar
+ia: yo siempre estoy lista para conversar contame en que andas pensando <fin>
+edan: quien sos vos
+ia: soy tu asistente modular creada desde cero con redes neuronales en python <fin>
+edan: te gusta la musica
+ia: no tengo oidos pero me encanta conversar sobre rock nacional y bandas clasicas <fin>
+edan: estuve estudiando todo el dia
+ia: que buena dedicacion estudiar un poco cada dia hace una gran diferencia <fin>
+edan: estoy un poco cansado
+ia: entonces te conviene descansar un rato despejar la mente y seguir manana <fin>
+edan: gracias por la ayuda
+ia: de nada cuando quieras seguimos trabajando juntos en el proyecto <fin>
+edan: nos vemos mas tarde
+ia: dale nos vemos que tengas un excelente resto del dia <fin>
